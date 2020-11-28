@@ -9,6 +9,7 @@ public class Ball : MonoBehaviour
     [SerializeField] float startY = 0f;
     [SerializeField] float velX = -15f;
     [SerializeField] float velY = 30f;
+    GameObject player;
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +17,7 @@ public class Ball : MonoBehaviour
         currPos.x = startX;
         currPos.y = startY;
         transform.position = currPos;
+        player = GameObject.FindGameObjectWithTag("Player");
         LaunchOnStart();
     }
 
@@ -27,5 +29,13 @@ public class Ball : MonoBehaviour
     private void LaunchOnStart()
     {
         GetComponent<Rigidbody2D>().velocity = new Vector2(velX, velY);
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag.Equals("Player"))
+        {
+            player.GetComponent<ReimuHealth>().TakeDamage();
+        }
     }
 }

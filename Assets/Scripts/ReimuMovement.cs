@@ -11,6 +11,8 @@ public class ReimuMovement : MonoBehaviour
     public float dashSpeed = 160f;
     float horizontalMove = 0f;
     bool dash = false;
+    bool slash = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +23,18 @@ public class ReimuMovement : MonoBehaviour
     void Update()
     {
         DashEnable();
+        SlashEnable();
+        MovementSpeed();
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+        animator.SetBool("isDashing", dash);
+        animator.SetBool("isSlashing", slash);
+    }
+    private void FixedUpdate()
+    {
+        controller.Move(horizontalMove * Time.fixedDeltaTime);
+    }
+    private void MovementSpeed()
+    {
         if (dash)
         {
             horizontalMove = Input.GetAxisRaw("Horizontal") * dashSpeed;
@@ -29,18 +43,10 @@ public class ReimuMovement : MonoBehaviour
         {
             horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
         }
-        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-        animator.SetBool("isDashing", dash);
     }
-
-    private void FixedUpdate()
-    {
-        controller.Move(horizontalMove * Time.fixedDeltaTime);
-    }
-
     private void DashEnable() // enable dash and wait for the animation to cancel for calling the dash disable
     {
-        if (Input.GetKeyDown(KeyCode.Z))
+        if (Input.GetKey(KeyCode.Z) && animator.GetFloat("Speed") >= 0.01)
         {
             dash = true;
         }
@@ -49,5 +55,16 @@ public class ReimuMovement : MonoBehaviour
     private void DashDisable()
     {
         dash = false;
+    }
+    private void SlashEnable()
+    {
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            slash = true;
+        }
+    }
+    private void SlashDisable()
+    {
+        slash = false;
     }
 }
