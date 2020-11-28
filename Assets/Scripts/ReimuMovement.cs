@@ -35,7 +35,7 @@ public class ReimuMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        controller.Move(horizontalMove * Time.fixedDeltaTime, false, false);
+        controller.Move(horizontalMove * Time.fixedDeltaTime);
     }
 
     private void DashEnable() // enable dash and wait for the animation to cancel for calling the dash disable

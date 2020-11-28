@@ -13,9 +13,12 @@ public class GameManager : MonoBehaviour
     {
         
     }
-
     // Update is called once per frame
     void Update()
+    {
+        CardCount();
+    }
+    private void CardCount()
     {
         CardCounts = GameObject.FindGameObjectsWithTag(tagToCount);
         count = CardCounts.Length;
@@ -23,16 +26,6 @@ public class GameManager : MonoBehaviour
         {
             int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(currentSceneIndex + 1);
-        }
-    }
-    public class SetTargetFrameRate : MonoBehaviour 
-    {
-        public int targetFrameRate = 60;
- 
-        private void Start()
-        {
-         QualitySettings.vSyncCount = 0;
-         Application.targetFrameRate = targetFrameRate;
         }
     }
 }
