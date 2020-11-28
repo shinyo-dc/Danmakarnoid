@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
     private GameObject[] CardCounts;
-    [SerializeField] int count = 26;
+    [SerializeField] int count = 0;
     [SerializeField] string tagToCount = "Card";
     // Start is called before the first frame update
     void Start()
@@ -27,7 +27,7 @@ public class GameManager : MonoBehaviour
     }
     public class SetTargetFrameRate : MonoBehaviour 
     {
-        public int targetFrameRate = 30;
+        public int targetFrameRate = 60;
  
         private void Start()
         {
