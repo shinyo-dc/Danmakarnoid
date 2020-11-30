@@ -46,7 +46,7 @@ public class ReimuMovement : MonoBehaviour
     }
     private void DashEnable() // enable dash and wait for the animation to cancel for calling the dash disable
     {
-        if (Input.GetKey(KeyCode.Z) && animator.GetFloat("Speed") >= 0.01)
+        if (Input.GetKeyDown(KeyCode.Z) && animator.GetFloat("Speed") >= 0.01)
         {
             dash = true;
         }

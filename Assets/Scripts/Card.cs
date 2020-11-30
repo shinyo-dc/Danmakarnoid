@@ -6,7 +6,10 @@ public class Card : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        GetComponent<Animator>().SetTrigger("death");
+        if (collision.gameObject.tag.Equals("Ball"))
+        {
+            GetComponent<Animator>().SetTrigger("death");
+        }
     }
     private void Death()
     {

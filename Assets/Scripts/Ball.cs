@@ -33,9 +33,21 @@ public class Ball : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+        float distX = this.transform.position.x - player.transform.position.x;
+        float distY = this.transform.position.y - player.transform.position.y;
         if (other.gameObject.tag.Equals("Player"))
         {
+            float velX = this.GetComponent<Rigidbody2D>().velocity.x;
+            float velY = this.GetComponent<Rigidbody2D>().velocity.y;
             player.GetComponent<ReimuHealth>().TakeDamage();
+            if (player.transform.localScale.x == -1)
+            {
+                this.GetComponent<Rigidbody2D>().velocity = new Vector2(15f, 20f);
+            }
+            else if (player.transform.localScale.x == 1)
+            {
+                this.GetComponent<Rigidbody2D>().velocity = new Vector2(-15f, 20f);
+            }
         }
     }
 }
