@@ -9,7 +9,8 @@ public class Ball : MonoBehaviour
     [SerializeField] float startY = 0f;
     [SerializeField] float velX = -15f;
     [SerializeField] float velY = 30f;
-    GameObject player;
+    float lastVelX = 0;
+    float lastVelY = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,7 +18,6 @@ public class Ball : MonoBehaviour
         currPos.x = startX;
         currPos.y = startY;
         transform.position = currPos;
-        player = GameObject.FindGameObjectWithTag("Player");
         LaunchOnStart();
     }
 
@@ -33,21 +33,31 @@ public class Ball : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        float distX = this.transform.position.x - player.transform.position.x;
-        float distY = this.transform.position.y - player.transform.position.y;
         if (other.gameObject.tag.Equals("Player"))
         {
-            float velX = this.GetComponent<Rigidbody2D>().velocity.x;
-            float velY = this.GetComponent<Rigidbody2D>().velocity.y;
+            GameObject player = GameObject.FindGameObjectWithTag("Player");
             player.GetComponent<ReimuHealth>().TakeDamage();
+            this.GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
+            this.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000f);
             if (player.transform.localScale.x == -1)
             {
-                this.GetComponent<Rigidbody2D>().velocity = new Vector2(15f, 20f);
+                this.GetComponent<Rigidbody2D>().AddForce(Vector2.right * 1000f);
             }
             else if (player.transform.localScale.x == 1)
             {
-                this.GetComponent<Rigidbody2D>().velocity = new Vector2(-15f, 20f);
+                this.GetComponent<Rigidbody2D>().AddForce(Vector2.left * 1000f);
             }
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject.tag.Equals("Bullet"))
+        {
+            GameObject bullet = GameObject.FindGameObjectWithTag("Bullet");
+            float distX = this.transform.position.x - bullet.transform.position.x;
+            float velX = this.GetComponent<Rigidbody2D>().velocity.x;
+            this.GetComponent<Rigidbody2D>().velocity = new Vector2(velX, 0f);
+            this.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000f);
         }
     }
 }

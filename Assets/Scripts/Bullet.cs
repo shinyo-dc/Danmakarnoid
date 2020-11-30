@@ -14,8 +14,10 @@ public class Bullet : MonoBehaviour
 
     void OnTriggerEnter2D (Collider2D hitInfo)
     {
-        Debug.Log(hitInfo.name);
-        Destroy(this.gameObject);
+        if (!(hitInfo.gameObject.tag.Equals("Card")))
+        {
+            Destroy(this.gameObject);
+        }
     }
     
 
