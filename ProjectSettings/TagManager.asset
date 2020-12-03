@@ -7,6 +7,8 @@ TagManager:
   - Card
   - Ball
   - Bullet
+  - Wall
+  - Music
   layers:
   - Default
   - TransparentFX

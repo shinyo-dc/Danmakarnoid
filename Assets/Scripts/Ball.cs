@@ -40,11 +40,25 @@ public class Ball : MonoBehaviour
             this.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000f);
             if (player.transform.localScale.x == -1)
             {
-                this.GetComponent<Rigidbody2D>().AddForce(Vector2.right * 20f * speed);
+                if(speed > 0f)
+                {
+                    this.GetComponent<Rigidbody2D>().AddForce(Vector2.right * 20f * speed);
+                }
+                else
+                {
+                    this.GetComponent<Rigidbody2D>().AddForce(Vector2.right * 200f);
+                }
             }
             else if (player.transform.localScale.x == 1)
             {
-                this.GetComponent<Rigidbody2D>().AddForce(Vector2.left * 20f * speed);
+                if(speed > 0f)
+                {
+                    this.GetComponent<Rigidbody2D>().AddForce(Vector2.left * 20f * speed);
+                }
+                else
+                {
+                    this.GetComponent<Rigidbody2D>().AddForce(Vector2.left * 200f);
+                }
             }
         }
     }
@@ -55,15 +69,16 @@ public class Ball : MonoBehaviour
             GameObject bullet = GameObject.FindGameObjectWithTag("Bullet");
             float distX = this.transform.position.x - bullet.transform.position.x;
             float velX = this.GetComponent<Rigidbody2D>().velocity.x;
-            if (velX > 0f)
+            this.GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
+            if (distX*100f > 0)
             {
-                this.GetComponent<Rigidbody2D>().velocity = new Vector2(velX, 0f);
+                this.GetComponent<Rigidbody2D>().AddForce(Vector2.right * 100f);
             }
-            else
+            else if (distX*100f < 0)
             {
-                this.GetComponent<Rigidbody2D>().velocity = new Vector2(distX*5f, 0f);
+                this.GetComponent<Rigidbody2D>().AddForce(Vector2.left * 100f);
             }
-            this.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1000f);
+            this.GetComponent<Rigidbody2D>().AddForce(Vector2.up * 1200f);
         }
     }
 }

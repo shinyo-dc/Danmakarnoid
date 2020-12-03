@@ -7,12 +7,11 @@ public class ReimuHealth : MonoBehaviour
     public int health = 3;
     public bool isInvulnerable = false; // when enter dash mode or slash mode this is true
     bool hit = false;
-    bool die = false;
+    public bool die = false;
     [SerializeField] Animator animator;
 
     public void TakeDamage()
     {
-        Debug.Log(animator.name);
         if (isInvulnerable)
             return;
 
@@ -32,17 +31,22 @@ public class ReimuHealth : MonoBehaviour
     {
         hit = true;
         animator.SetBool("isHit", hit);
+        this.GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
+        this.GetComponent<ReimuMovement>().enabled = false;
     }
     void HitDisable()
     {
         hit = false;
         animator.SetBool("isHit", hit);
+        this.GetComponent<ReimuMovement>().enabled = true;
     }
 
     void Die()
     {
         die = true;
         animator.SetBool("isDead", die);
+        this.GetComponent<Rigidbody2D>().velocity = new Vector2(0f, 0f);
+        this.GetComponent<ReimuMovement>().enabled = false;
     }
 
     void Destroy()
