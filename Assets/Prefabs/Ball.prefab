@@ -130,10 +130,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5861311802299787725}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ebbb140749cd6dd47baf67da55bcfdec, type: 3}
+  m_Script: {fileID: 11500000, guid: 787d8cc12926a7d428b3cacf4442697e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   startX: 15
   startY: 0
-  velX: -10
-  velY: 20
+  velX: -15
+  velY: 30

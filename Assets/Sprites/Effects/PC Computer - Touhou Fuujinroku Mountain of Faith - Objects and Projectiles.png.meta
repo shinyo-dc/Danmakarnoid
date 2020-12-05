@@ -1,7 +1,691 @@
 fileFormatVersion: 2
 guid: c8c2c160093a3e94e86a07b7511ca5c2
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7930457023291050019
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_0
+  - first:
+      213: -322722617474916036
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_1
+  - first:
+      213: -3800736118837601037
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_2
+  - first:
+      213: -8337571686750672096
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_3
+  - first:
+      213: -8305141902342773546
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_4
+  - first:
+      213: 4389264307793564174
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_5
+  - first:
+      213: 8954733601087443277
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_6
+  - first:
+      213: 7733259306865687250
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_7
+  - first:
+      213: 5206198910474329120
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_8
+  - first:
+      213: 3869404906305661653
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_9
+  - first:
+      213: 3622737489078129383
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_10
+  - first:
+      213: 7861448633647394636
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_11
+  - first:
+      213: 1035961285121115751
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_12
+  - first:
+      213: 4484917000181203283
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_13
+  - first:
+      213: -3112111364581663979
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_14
+  - first:
+      213: 7638672712620167125
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_15
+  - first:
+      213: -5799884229473679131
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_16
+  - first:
+      213: -7683296791410201604
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_17
+  - first:
+      213: 3698783692401569902
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_18
+  - first:
+      213: -4291820242403150847
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_19
+  - first:
+      213: 4544443213088044658
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_20
+  - first:
+      213: -3558883276048923558
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_21
+  - first:
+      213: -1252637370478316300
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_22
+  - first:
+      213: 6110372246359368502
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_23
+  - first:
+      213: 7447447396932198960
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_24
+  - first:
+      213: 1043844774763752674
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_25
+  - first:
+      213: 5219007782279118527
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_26
+  - first:
+      213: -1499439620206582862
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_27
+  - first:
+      213: -5188793861501475164
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_28
+  - first:
+      213: -429970744471804075
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_29
+  - first:
+      213: -8189873159039143125
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_30
+  - first:
+      213: -963568369927047992
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_31
+  - first:
+      213: -2016752440455720463
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_32
+  - first:
+      213: -5443981581001880188
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_33
+  - first:
+      213: -7177784609412644225
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_34
+  - first:
+      213: -2867479955947694241
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_35
+  - first:
+      213: 8824159856669333345
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_36
+  - first:
+      213: 6213048133032887333
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_37
+  - first:
+      213: 6252429256396761263
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_38
+  - first:
+      213: 4852204381831251408
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_39
+  - first:
+      213: 1371694092686476658
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_40
+  - first:
+      213: 900510233107922313
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_41
+  - first:
+      213: 2075948172313698891
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_42
+  - first:
+      213: 7435027841134641073
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_43
+  - first:
+      213: 2183910309805256731
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_44
+  - first:
+      213: 4235805609328423407
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_45
+  - first:
+      213: 2670041196058698694
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_46
+  - first:
+      213: -7466814839305932683
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_47
+  - first:
+      213: 5990666366998027332
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_48
+  - first:
+      213: 5962319436599973784
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_49
+  - first:
+      213: 6779488881682648444
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_50
+  - first:
+      213: 3215056767934729888
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_51
+  - first:
+      213: -3443301931681406285
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_52
+  - first:
+      213: -2356216945852461143
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_53
+  - first:
+      213: -1371328397109047885
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_54
+  - first:
+      213: -7534977080802709640
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_55
+  - first:
+      213: 3264561600090255467
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_56
+  - first:
+      213: -6673275157721100228
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_57
+  - first:
+      213: -6191230790515911604
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_58
+  - first:
+      213: -1892313883561009561
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_59
+  - first:
+      213: 1764547500494187963
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_60
+  - first:
+      213: -3085965086952325905
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_61
+  - first:
+      213: -1978701527193048001
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_62
+  - first:
+      213: 2468669740887613023
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_63
+  - first:
+      213: -3538531774080616702
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_64
+  - first:
+      213: -6999118852549485543
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_65
+  - first:
+      213: -6983444848683691780
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_66
+  - first:
+      213: -8204795486151937273
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_67
+  - first:
+      213: 5753845300815305470
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_68
+  - first:
+      213: 913726888499099129
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_69
+  - first:
+      213: -2880589990547116958
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_70
+  - first:
+      213: 1481668255812345022
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_71
+  - first:
+      213: 6755400324060772733
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_72
+  - first:
+      213: 7903791540118542100
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_73
+  - first:
+      213: -2775391231995841861
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_74
+  - first:
+      213: -4187773399141807493
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_75
+  - first:
+      213: -9212098682007020305
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_76
+  - first:
+      213: -753922104369136684
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_77
+  - first:
+      213: 4530226396870796906
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_78
+  - first:
+      213: -8017035215193015283
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_79
+  - first:
+      213: -6302994322919799841
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_80
+  - first:
+      213: 5055243930153271974
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_81
+  - first:
+      213: -5763751860572791208
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_82
+  - first:
+      213: -7208457799354175923
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_83
+  - first:
+      213: -1612941180685797526
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_84
+  - first:
+      213: -1878950300182690739
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_85
+  - first:
+      213: -3948401761485373184
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_86
+  - first:
+      213: 4979554315683858738
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_87
+  - first:
+      213: 117252269190138823
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_88
+  - first:
+      213: 9004192359991355311
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_89
+  - first:
+      213: -359344477110364428
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_90
+  - first:
+      213: -4762136405853927801
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_91
+  - first:
+      213: 6662519950114542801
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_92
+  - first:
+      213: 4204860314277764216
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_93
+  - first:
+      213: 71322699795377223
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_94
+  - first:
+      213: -7893068199712909952
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_95
+  - first:
+      213: 4746356496753927328
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_96
+  - first:
+      213: 8033716671206771265
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_97
+  - first:
+      213: 2931571421353577618
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_98
+  - first:
+      213: -837736039602997349
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_99
+  - first:
+      213: -6014351838264679838
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_100
+  - first:
+      213: -983357599274318657
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_101
+  - first:
+      213: 1356081620550776876
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_102
+  - first:
+      213: 2309685034338873856
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_103
+  - first:
+      213: 1537250958033907982
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_104
+  - first:
+      213: 4534522318929455079
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_105
+  - first:
+      213: -8889175892824704622
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_106
+  - first:
+      213: 2358908932630207710
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_107
+  - first:
+      213: 1581684021812438923
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_108
+  - first:
+      213: 8295374234784161197
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_109
+  - first:
+      213: -3937943452976598474
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_110
+  - first:
+      213: -6619139618282045886
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_111
+  - first:
+      213: -4656340644390811135
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_112
+  - first:
+      213: -6999828190069203765
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_113
+  - first:
+      213: -4983575739059094052
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_114
+  - first:
+      213: 6405646574742142394
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_115
+  - first:
+      213: 1931268909949325694
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_116
+  - first:
+      213: 6747504388451780273
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_117
+  - first:
+      213: 3645245483438322894
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_118
+  - first:
+      213: 8330163313990125320
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_119
+  - first:
+      213: -630739700533875500
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_120
+  - first:
+      213: -1344592138638542798
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_121
+  - first:
+      213: -1768413461731762345
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_122
+  - first:
+      213: 5911927129450715814
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_123
+  - first:
+      213: -2233484451273014595
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_124
+  - first:
+      213: -8347173174508893425
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_125
+  - first:
+      213: -7029928843312612137
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_126
+  - first:
+      213: -6808681482720427474
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_127
+  - first:
+      213: 5707938475187848145
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_128
+  - first:
+      213: -4037309640226574724
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_129
+  - first:
+      213: 2787447885789434805
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_130
+  - first:
+      213: -782986458952539547
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_131
+  - first:
+      213: -493843530743964474
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_132
+  - first:
+      213: 1691003502284369616
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_133
+  - first:
+      213: 407686520437121887
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_134
+  - first:
+      213: 8000277299038420977
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_135
+  - first:
+      213: -6066980665527137874
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_136
+  - first:
+      213: -2966813676125067137
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_137
+  - first:
+      213: -3856764238064944623
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_138
+  - first:
+      213: -7632263791308248128
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_139
+  - first:
+      213: -8673812118056994543
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_140
+  - first:
+      213: 5567912892234551982
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_141
+  - first:
+      213: 1547784645857506919
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_142
+  - first:
+      213: 4112926712722467038
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_143
+  - first:
+      213: 5551170780693741768
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_144
+  - first:
+      213: 2466773448431041806
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_145
+  - first:
+      213: 9075118802774713387
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_146
+  - first:
+      213: 499903665871255940
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_147
+  - first:
+      213: -6015794991420444278
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_148
+  - first:
+      213: 2809765159420185743
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_149
+  - first:
+      213: -7398233978624489859
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_150
+  - first:
+      213: 4589589231177954124
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_151
+  - first:
+      213: 5450581291899219690
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_152
+  - first:
+      213: -1184600152594153427
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_153
+  - first:
+      213: -3049406574914473118
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_154
+  - first:
+      213: 6165677744319927485
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_155
+  - first:
+      213: -6429653018303601420
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_156
+  - first:
+      213: -5642792311425277487
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_157
+  - first:
+      213: 1807785121222003108
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_158
+  - first:
+      213: -3621048985023735840
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_159
+  - first:
+      213: -7994470325659974395
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_160
+  - first:
+      213: 7257572059055240785
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_161
+  - first:
+      213: 3158652187804938357
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_162
+  - first:
+      213: 3993428988629942071
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_163
+  - first:
+      213: 3297016879856890674
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_164
+  - first:
+      213: 8585966733527192496
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_165
+  - first:
+      213: 732764882501823174
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_166
+  - first:
+      213: -6370341554280748853
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_167
+  - first:
+      213: 576732969033341680
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_168
+  - first:
+      213: -2705447251367367927
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_169
+  - first:
+      213: 7360039484627834107
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_170
+  - first:
+      213: 2680873305861336846
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_171
+  - first:
+      213: -9095414980023427344
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_172
+  - first:
+      213: -1576198134088634733
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_173
+  - first:
+      213: -3996307414926426859
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_174
+  - first:
+      213: 2535613579359807194
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_175
+  - first:
+      213: 901941260211124137
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_176
+  - first:
+      213: -395263754886748081
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_177
+  - first:
+      213: 3557790279273986738
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_178
+  - first:
+      213: 5624871187766304422
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_179
+  - first:
+      213: -1589189164418349789
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_180
+  - first:
+      213: 3012113287545866893
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_181
+  - first:
+      213: 6558874346782471493
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_182
+  - first:
+      213: 5965526480012087292
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_183
+  - first:
+      213: 3329184782572233190
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_184
+  - first:
+      213: -6940089210049156415
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_185
+  - first:
+      213: -5939355203105090674
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_186
+  - first:
+      213: -2409367190880220270
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_187
+  - first:
+      213: -5308841207403186967
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_188
+  - first:
+      213: 1972574927448856613
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_189
+  - first:
+      213: 780922709767438873
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_190
+  - first:
+      213: 1122816101912023851
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_191
+  - first:
+      213: -8896229149991261648
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_192
+  - first:
+      213: 6225403723284995330
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_193
+  - first:
+      213: 73036060119644681
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_194
+  - first:
+      213: 2559080589267990500
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_195
+  - first:
+      213: -8506612095981088797
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_196
+  - first:
+      213: -3299148597703139516
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_197
+  - first:
+      213: -2434392756331813282
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_198
+  - first:
+      213: -8127480067533728701
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_199
+  - first:
+      213: -7724446506165306953
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_200
+  - first:
+      213: 8508348375686447183
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_201
+  - first:
+      213: -849978300158371353
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_202
+  - first:
+      213: 1004858542902948163
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_203
+  - first:
+      213: -3241792026873482189
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_204
+  - first:
+      213: -5466184845487196833
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_205
+  - first:
+      213: -785429624403791155
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_206
+  - first:
+      213: 8952313726133644837
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_207
+  - first:
+      213: -5045082288385673453
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_208
+  - first:
+      213: 8156446847001165545
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_209
+  - first:
+      213: -8312162798053274249
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_210
+  - first:
+      213: -741950352308281137
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_211
+  - first:
+      213: 3502817075558892959
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_212
+  - first:
+      213: 6518479368722117434
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_213
+  - first:
+      213: -7756652045342506897
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_214
+  - first:
+      213: 4066810126689113860
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_215
+  - first:
+      213: -3329417556699972228
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_216
+  - first:
+      213: -4584702913719535289
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_217
+  - first:
+      213: -7918255545051502810
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_218
+  - first:
+      213: -1086501564250824079
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_219
+  - first:
+      213: -7237384829818051470
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_220
+  - first:
+      213: 4699239353586386912
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_221
+  - first:
+      213: 2102314089804316355
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_222
+  - first:
+      213: 766778103053338658
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_223
+  - first:
+      213: 6318424834971007504
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_224
+  - first:
+      213: 8267809363011942279
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_225
+  - first:
+      213: -5363870934555184548
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_226
+  - first:
+      213: -1413053814009537486
+    second: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_227
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +715,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,12 +724,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 28
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -61,7 +745,43 @@ TextureImporter:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
-    resizeAlgorithm: 0
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -72,7 +792,4795 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 529
+        width: 256
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328c3c335a4ae0e60800000000000000
+      internalID: 7930457023291050019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 528
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c316c604d75758bf0800000000000000
+      internalID: -322722617474916036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc10b713a2114bc0800000000000000
+      internalID: -3800736118837601037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b2fd9a9befa4c80800000000000000
+      internalID: -8337571686750672096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a5ad31753ebc80800000000000000
+      internalID: -8305141902342773546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e021653f1acc9ec30800000000000000
+      internalID: 4389264307793564174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41521714ca954c70800000000000000
+      internalID: 8954733601087443277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da76b5fd5e025b60800000000000000
+      internalID: 7733259306865687250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c19d05352204840800000000000000
+      internalID: 5206198910474329120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa084e243e2b530800000000000000
+      internalID: 3869404906305661653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21efe5d8c864230800000000000000
+      internalID: 3622737489078129383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f688c61e9791d60800000000000000
+      internalID: 7861448633647394636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76683b0dc49706e00800000000000000
+      internalID: 1035961285121115751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_13
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 529
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35149e2ef30ad3e30800000000000000
+      internalID: 4484917000181203283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 529
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b57acd33f8fc4d0800000000000000
+      internalID: -3112111364581663979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 480
+        width: 256
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc1375c54020a60800000000000000
+      internalID: 7638672712620167125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 499
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8c4dbb50ca28fa0800000000000000
+      internalID: -5799884229473679131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 465
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfba81ca6427f5590800000000000000
+      internalID: -7683296791410201604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 464
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607a96db28b45330800000000000000
+      internalID: 3698783692401569902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 465
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104bab38a346074c0800000000000000
+      internalID: -4291820242403150847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 465
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2763c0a560b111f30800000000000000
+      internalID: 4544443213088044658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_21
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 485
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a548606248e4c9ec0800000000000000
+      internalID: -3558883276048923558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 465
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b244c2fcbd9ee0800000000000000
+      internalID: -1252637370478316300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_23
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 465
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633e7a51f276cc450800000000000000
+      internalID: 6110372246359368502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_24
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0322d8103f5aa5760800000000000000
+      internalID: 7447447396932198960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece078ca4b7c7e00800000000000000
+      internalID: 1043844774763752674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_26
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbefebe2de3ad6840800000000000000
+      internalID: 5219007782279118527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a07b1c9be03be0800000000000000
+      internalID: -1499439620206582862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 465
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a62a707973bdf7b0800000000000000
+      internalID: -5188793861501475164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557a2ffc2ef680af0800000000000000
+      internalID: -429970744471804075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2337ffe0c9b75e80800000000000000
+      internalID: -8189873159039143125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_31
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c432b93ca7b0a2f0800000000000000
+      internalID: -963568369927047992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f11cb2375e0304e0800000000000000
+      internalID: -2016752440455720463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d0d9478971374b0800000000000000
+      internalID: -5443981581001880188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7281b16de2636c90800000000000000
+      internalID: -7177784609412644225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_35
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f575f213c2aa438d0800000000000000
+      internalID: -2867479955947694241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167990223a6b57a70800000000000000
+      internalID: 8824159856669333345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 465
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52444dddb5e293650800000000000000
+      internalID: 6213048133032887333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_38
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 336
+        width: 256
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8e9ca284715c650800000000000000
+      internalID: 6252429256396761263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 401
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d545ac5d2e765340800000000000000
+      internalID: 4852204381831251408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 401
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275441f728c390310800000000000000
+      internalID: 1371694092686476658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 323
+        width: 129
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d700139414f7c00800000000000000
+      internalID: 900510233107922313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_42
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 368
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4221e62ddf3fcc10800000000000000
+      internalID: 2075948172313698891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_43
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 368
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf38f5dd668e2760800000000000000
+      internalID: 7435027841134641073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 368
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10714d1bdece4e10800000000000000
+      internalID: 2183910309805256731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_45
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1b0a962ca98ca30800000000000000
+      internalID: 4235805609328423407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 336
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ecb24254ed0520800000000000000
+      internalID: 2670041196058698694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_47
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 288
+        width: 64
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570fd8be67b806890800000000000000
+      internalID: -7466814839305932683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 320
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c1cc4225f132350800000000000000
+      internalID: 5990666366998027332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_49
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897d2f710f96eb250800000000000000
+      internalID: 5962319436599973784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_50
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d8767f735951e50800000000000000
+      internalID: 6779488881682648444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0779a81d2e9c20800000000000000
+      internalID: 3215056767934729888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2a6b3f22fe630d0800000000000000
+      internalID: -3443301931681406285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_53
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af45b8eb290d4fd0800000000000000
+      internalID: -2356216945852461143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc8e3a61018fce0800000000000000
+      internalID: -1371328397109047885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_55
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f6b0c54426e6790800000000000000
+      internalID: -7534977080802709640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_56
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 305
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60b2c89a7d0e4d20800000000000000
+      internalID: 3264561600090255467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_57
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30589fb993c363a0800000000000000
+      internalID: -6673275157721100228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_58
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 322
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4496d80664541aa0800000000000000
+      internalID: -6191230790515911604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_59
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 288
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5ece7c862db5e0800000000000000
+      internalID: -1892313883561009561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_60
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd624c4a9eec7810800000000000000
+      internalID: 1764547500494187963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_61
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf2f28a137c25d0800000000000000
+      internalID: -3085965086952325905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_62
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca223d17d3a84e0800000000000000
+      internalID: -1978701527193048001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e9c5dbc0a724220800000000000000
+      internalID: 2468669740887613023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207fd73791c94eec0800000000000000
+      internalID: -3538531774080616702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_65
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5c0d8c722ede90800000000000000
+      internalID: -6999118852549485543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_66
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf05da5f8e1d51f90800000000000000
+      internalID: -6983444848683691780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7037f29e9f5b22e80800000000000000
+      internalID: -8204795486151937273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_68
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa95afd0d3c9df40800000000000000
+      internalID: 5753845300815305470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 290
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f536b293c53eac00800000000000000
+      internalID: 913726888499099129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_70
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ca4e56aa61608d0800000000000000
+      internalID: -2880589990547116958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_71
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdaaead61ff8410800000000000000
+      internalID: 1481668255812345022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_72
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 289
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7973379dc000cd50800000000000000
+      internalID: 6755400324060772733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_73
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 289
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417d0879788efad60800000000000000
+      internalID: 7903791540118542100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_74
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 294
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb277201164db79d0800000000000000
+      internalID: -2775391231995841861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_75
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 254
+        width: 256
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a8250084a02e5c0800000000000000
+      internalID: -4187773399141807493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 152
+        width: 67
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec90277e0d082080800000000000000
+      internalID: -9212098682007020305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_77
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 152
+        width: 12
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db33cc27d78985f0800000000000000
+      internalID: -753922104369136684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_78
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 152
+        width: 13
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e491e7e89ede30800000000000000
+      internalID: 4530226396870796906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 196
+        width: 10
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7f96a2f4cdb090800000000000000
+      internalID: -8017035215193015283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_80
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 253
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3cf09de044788a0800000000000000
+      internalID: -6302994322919799841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_81
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 249
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a24cb51295d72640800000000000000
+      internalID: 5055243930153271974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_82
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 253
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85edf01783a0300b0800000000000000
+      internalID: -5763751860572791208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_83
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 253
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ea913d2d966fb90800000000000000
+      internalID: -7208457799354175923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_84
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67bf99ba8ead99e0800000000000000
+      internalID: -1612941180685797526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_85
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 253
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d444ff638a0ace5e0800000000000000
+      internalID: -1878950300182690739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 190
+        width: 256
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001432874857439c0800000000000000
+      internalID: -3948401761485373184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 231
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239891e644eea1540800000000000000
+      internalID: 4979554315683858738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_88
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 231
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbcf2e415090a100800000000000000
+      internalID: 117252269190138823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_89
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 231
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa72292ce3155fc70800000000000000
+      internalID: 9004192359991355311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f696d91a1a530bf0800000000000000
+      internalID: -359344477110364428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 231
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7860f157b2e79edb0800000000000000
+      internalID: -4762136405853927801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_92
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 231
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4d7875896067c50800000000000000
+      internalID: 6662519950114542801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 205
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cd9a27d2aaa5a30800000000000000
+      internalID: 4204860314277764216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_94
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 209
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca9b91e936df000800000000000000
+      internalID: 71322699795377223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_95
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851e28aa40367290800000000000000
+      internalID: -7893068199712909952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_96
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 209
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a26626127ed140800000000000000
+      internalID: 4746356496753927328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_97
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ac96d7fbe7d7f60800000000000000
+      internalID: 8033716671206771265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_98
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c8773fca80fa820800000000000000
+      internalID: 2931571421353577618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_99
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 209
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97bbefa283cf54f0800000000000000
+      internalID: -837736039602997349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26224065edab88ca0800000000000000
+      internalID: -6014351838264679838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_101
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c21839796a52f0800000000000000
+      internalID: -983357599274318657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_102
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c287d5f8c05c1d210800000000000000
+      internalID: 1356081620550776876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002fdce2d46ad0020800000000000000
+      internalID: 2309685034338873856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_104
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e017d340a99655510800000000000000
+      internalID: 1537250958033907982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_105
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7eedd260cddee30800000000000000
+      internalID: 4534522318929455079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_106
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299b7325f9d43a480800000000000000
+      internalID: -8889175892824704622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_107
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 157
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5bea1d278cb020800000000000000
+      internalID: 2358908932630207710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 169
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87aa0bdc3543f510800000000000000
+      internalID: 1581684021812438923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_109
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 187
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddc3f6ae61f1370800000000000000
+      internalID: 8295374234784161197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_110
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 187
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63231cb2b4d9959c0800000000000000
+      internalID: -3937943452976598474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e759d36971424a0800000000000000
+      internalID: -6619139618282045886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_112
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 187
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a4fd1bada516fb0800000000000000
+      internalID: -4656340644390811135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_113
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 187
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd82a095d9bde90800000000000000
+      internalID: -6999828190069203765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_114
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb02af448c6dab0800000000000000
+      internalID: -4983575739059094052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_115
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 187
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdf3340f9d65e850800000000000000
+      internalID: 6405646574742142394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 187
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71194f57de3dca10800000000000000
+      internalID: 1931268909949325694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_117
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 165
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6ce02dd73f3ad50800000000000000
+      internalID: 6747504388451780273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_118
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 165
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4307f2473869230800000000000000
+      internalID: 3645245483438322894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 165
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8074f53266faa9370800000000000000
+      internalID: 8330163313990125320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_120
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 165
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc21fb85992f37f0800000000000000
+      internalID: -630739700533875500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_121
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 165
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238baa8e29c075de0800000000000000
+      internalID: -1344592138638542798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_122
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 165
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f957573555577e0800000000000000
+      internalID: -1768413461731762345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_123
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 165
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa97e8c6626b0250800000000000000
+      internalID: 5911927129450715814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_124
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 165
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2838e99b11101e0800000000000000
+      internalID: -2233484451273014595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_125
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b4ab61932e82c80800000000000000
+      internalID: -8347173174508893425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_126
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc341296fca07e90800000000000000
+      internalID: -7029928843312612137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_127
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224ba1f344b281a0800000000000000
+      internalID: -6808681482720427474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_128
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 126
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d34b5d1dcba63f40800000000000000
+      internalID: 5707938475187848145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_129
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee806d54898f7c0800000000000000
+      internalID: -4037309640226574724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_130
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3946665110fa620800000000000000
+      internalID: 2787447885789434805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_131
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 126
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562613ac6f54225f0800000000000000
+      internalID: -782986458952539547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_132
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc916fdce38529f0800000000000000
+      internalID: -493843530743964474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_133
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dee99bd9b6a77710800000000000000
+      internalID: 1691003502284369616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_134
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 129
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53ae56fab468a500800000000000000
+      internalID: 407686520437121887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_135
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 129
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff7ec1f0d1b60f60800000000000000
+      internalID: 8000277299038420977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_136
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 125
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9871c9a31cdcba0800000000000000
+      internalID: -6066980665527137874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_137
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786bcf2ea2c3d6d0800000000000000
+      internalID: -2966813676125067137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_138
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 129
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a75b70c550a7ac0800000000000000
+      internalID: -3856764238064944623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_139
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbeefee480c41690800000000000000
+      internalID: -7632263791308248128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_140
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 129
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119fbbe95dd60a780800000000000000
+      internalID: -8673812118056994543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_141
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 129
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea255f18643354d40800000000000000
+      internalID: 5567912892234551982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 129
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f3255fe5da7510800000000000000
+      internalID: 1547784645857506919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_143
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 125
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a903dd0d041930800000000000000
+      internalID: 4112926712722467038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_144
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 129
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c047c6e968b90d40800000000000000
+      internalID: 5551170780693741768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_145
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 125
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0df81fb16dbb3220800000000000000
+      internalID: 2466773448431041806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 129
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ead5187c41fd70800000000000000
+      internalID: 9075118802774713387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_147
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 129
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489fb2a4cb300f600800000000000000
+      internalID: 499903665871255940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_148
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 129
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a817fce045a938ca0800000000000000
+      internalID: -6015794991420444278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_149
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 129
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4285968a4ef620800000000000000
+      internalID: 2809765159420185743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_150
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 129
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76ccdad461345990800000000000000
+      internalID: -7398233978624489859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f15dc61f71bf30800000000000000
+      internalID: 4589589231177954124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_152
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeea0b7eca54ab40800000000000000
+      internalID: 5450581291899219690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_153
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2080cfff647f8fe0800000000000000
+      internalID: -1184600152594153427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_154
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2637b7660e45ea5d0800000000000000
+      internalID: -3049406574914473118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db498b5cd33e09550800000000000000
+      internalID: 6165677744319927485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_156
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4eef645a845c6a0800000000000000
+      internalID: -6429653018303601420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_157
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e0302a46c0b1b0800000000000000
+      internalID: -5642792311425277487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_158
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 94
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a98cac5dfa861910800000000000000
+      internalID: 1807785121222003108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_159
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71f5d12237fbdc0800000000000000
+      internalID: -3621048985023735840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_160
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 107
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505c2a7689fed0190800000000000000
+      internalID: -7994470325659974395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_161
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 107
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b9cfd55318b460800000000000000
+      internalID: 7257572059055240785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_162
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570bf17fd69c5db20800000000000000
+      internalID: 3158652187804938357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_163
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff80fc1828b6730800000000000000
+      internalID: 3993428988629942071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_164
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 107
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2333656426b51cd20800000000000000
+      internalID: 3297016879856890674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_165
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 107
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b39535f04b772770800000000000000
+      internalID: 8585966733527192496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_166
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 107
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae66d37cd4b2a00800000000000000
+      internalID: 732764882501823174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_167
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 107
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8af2f9b100897a0800000000000000
+      internalID: -6370341554280748853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_168
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 107
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa1d756497f00800800000000000000
+      internalID: 576732969033341680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_169
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 107
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be0b71f02547ad0800000000000000
+      internalID: -2705447251367367927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf457168aec142660800000000000000
+      internalID: 7360039484627834107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_171
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 30
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f21bb5110643520800000000000000
+      internalID: 2680873305861336846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_172
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 30
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fedfe6e34896c180800000000000000
+      internalID: -9095414980023427344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_173
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 30
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e630ae528302ae0800000000000000
+      internalID: -1576198134088634733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_174
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 85
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dfc0854934a88c0800000000000000
+      internalID: -3996307414926426859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_175
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 85
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6e56dbd1f403320800000000000000
+      internalID: 2535613579359807194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_176
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 85
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f6272cc6548c00800000000000000
+      internalID: 901941260211124137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_177
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 85
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48636985bdb38af0800000000000000
+      internalID: -395263754886748081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 85
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab675b86fcf5130800000000000000
+      internalID: 3557790279273986738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_179
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 85
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed32e1b8e8f0e40800000000000000
+      internalID: 5624871187766304422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_180
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 85
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325c1f5ffd012f9e0800000000000000
+      internalID: -1589189164418349789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_181
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 85
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac76f731d2dc920800000000000000
+      internalID: 3012113287545866893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_182
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 85
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545346ec77dc50b50800000000000000
+      internalID: 6558874346782471493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_183
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 85
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff8e431abec9c250800000000000000
+      internalID: 5965526480012087292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_184
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 85
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1aad4cbe3a33e20800000000000000
+      internalID: 3329184782572233190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_185
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 82
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caaf7532a9dfaf90800000000000000
+      internalID: -6940089210049156415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_186
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 85
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e839d0c29eb239da0800000000000000
+      internalID: -5939355203105090674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_187
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b8a162e45309ed0800000000000000
+      internalID: -2409367190880220270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_188
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 81
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f6cf9c053356b0800000000000000
+      internalID: -5308841207403186967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_189
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 85
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5285e63027eff5b10800000000000000
+      internalID: 1972574927448856613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_190
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 85
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91249b8211566da00800000000000000
+      internalID: 780922709767438873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_191
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 63
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231e86bb4b059f00800000000000000
+      internalID: 1122816101912023851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_192
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aab4ae8be3a8480800000000000000
+      internalID: -8896229149991261648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_193
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 63
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ddbc5e3b3156650800000000000000
+      internalID: 6225403723284995330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_194
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 63
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ab933e8e9730100800000000000000
+      internalID: 73036060119644681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_195
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 59
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e77ae2cc3ea38320800000000000000
+      internalID: 2559080589267990500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_196
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 59
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef81016e5172f980800000000000000
+      internalID: -8506612095981088797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_197
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f1dac74d11732d0800000000000000
+      internalID: -3299148597703139516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_198
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 63
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ee03afac473ed0800000000000000
+      internalID: -2434392756331813282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_199
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 63
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344959790f3653f80800000000000000
+      internalID: -8127480067533728701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_200
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 41
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9728914d04dc490800000000000000
+      internalID: -7724446506165306953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_201
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40001eb4c9b31670800000000000000
+      internalID: 8508348375686447183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_202
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 41
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e915484d354434f0800000000000000
+      internalID: -849978300158371353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_203
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413f335589f1fd00800000000000000
+      internalID: 1004858542902948163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_204
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 41
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334338ac357d203d0800000000000000
+      internalID: -3241792026873482189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_205
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 41
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55bc1818d53424b0800000000000000
+      internalID: -5466184845487196833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_206
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 41
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f7510be79915f0800000000000000
+      internalID: -785429624403791155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_207
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 41
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eac0c07e10d3c70800000000000000
+      internalID: 8952313726133644837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_208
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 41
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317382283644cf9b0800000000000000
+      internalID: -5045082288385673453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_209
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 41
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eefbd05135813170800000000000000
+      internalID: 8156446847001165545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_210
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 41
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d41d299f345ac80800000000000000
+      internalID: -8312162798053274249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_211
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 41
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc060b9e51014b5f0800000000000000
+      internalID: -741950352308281137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_212
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f954cdd42918c9030800000000000000
+      internalID: 3502817075558892959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_213
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 41
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f460137a467a50800000000000000
+      internalID: 6518479368722117434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_214
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608d0faf06da5490800000000000000
+      internalID: -7756652045342506897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_215
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407144a6346307830800000000000000
+      internalID: 4066810126689113860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_216
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7df2f74f588bc1d0800000000000000
+      internalID: -3329417556699972228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_217
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 19
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7497c03adfcdf50c0800000000000000
+      internalID: -4584702913719535289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_218
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 19
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272074d884bc1290800000000000000
+      internalID: -7918255545051502810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_219
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 19
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1726ce67598fbe0f0800000000000000
+      internalID: -1086501564250824079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_220
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 19
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e4e3b7d4af8b90800000000000000
+      internalID: -7237384829818051470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_221
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 19
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e78d016b4d073140800000000000000
+      internalID: 4699239353586386912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_222
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 15
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceb511b68bec2d10800000000000000
+      internalID: 2102314089804316355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_223
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 19
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228ca064f9424aa00800000000000000
+      internalID: 766778103053338658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_224
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 19
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af37439ed8fa750800000000000000
+      internalID: 6318424834971007504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_225
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 19
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787b9f89fc82db270800000000000000
+      internalID: 8267809363011942279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_226
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 19
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52bbc4ddc3bf85b0800000000000000
+      internalID: -5363870934555184548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Touhou Fuujinroku Mountain of Faith - Objects and Projectiles_227
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 19
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5377fa03d36ce0800000000000000
+      internalID: -1413053814009537486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -11,11 +11,13 @@ public class GameManager : MonoBehaviour
     [SerializeField] string tagToCount = "Card";
     bool isPlayerDead;
     GameObject player; 
+    GameObject ball;
     [SerializeField] Text StatusText;
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
+        ball = GameObject.FindGameObjectWithTag("Ball");
     }
     // Update is called once per frame
     void Update()
@@ -47,10 +49,15 @@ public class GameManager : MonoBehaviour
     }
     private void AfterDead()
     {
+        ball.SetActive(false); 
         StatusText.text = "Hit Z to restart"; 
         if (Input.GetKey(KeyCode.Z))
         {
-            GameObject.FindGameObjectWithTag("Music").GetComponent<MusicClass>().StopMusic();
+            GameObject music = GameObject.FindGameObjectWithTag("Music"); 
+            if (music)
+            {
+                music.GetComponent<MusicClass>().StopMusic();
+            }
             SceneManager.LoadScene(0);
         }
     }

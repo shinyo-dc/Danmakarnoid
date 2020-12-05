@@ -10,6 +10,11 @@ public class ReimuHealth : MonoBehaviour
     public bool die = false;
     [SerializeField] Animator animator;
 
+    void Start()
+    {
+    }
+
+
     public void TakeDamage()
     {
         if (isInvulnerable)
